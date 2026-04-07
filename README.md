@@ -62,19 +62,16 @@ Meu objetivo é evoluir como profissional, aprender com equipes experientes e co
 ---
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+## 📊 Estatísticas GitHub
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight" />
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true"/>
-
-</div>
 ---
 
 # 🚀 Projetos em destaque
