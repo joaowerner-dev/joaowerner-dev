@@ -2,21 +2,17 @@
 
 # 👨‍💻 João Werner
 
-### 🚀 Estudante de ADS • Desenvolvimento • Suporte Técnico • Open to Work
+### 🚀 Estudante de ADS | Desenvolvimento | Suporte Técnico | Open to Work
+
+📍 Belo Horizonte - MG  
+📧 joaowernerbr@gmail.com  
+📱 https://wa.me/5531973401285  
 
 <p>
   <a href="https://linkedin.com/in/joaodecristo">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:joaowernerbr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5531973401285">
-    <img src="https://img.shields.io/badge/WhatsApp-Falar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=joaowerner-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -24,116 +20,113 @@
 
 # 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**, atualmente no início da minha jornada na área de tecnologia, com grande interesse em **desenvolvimento de software**, **suporte técnico** e **soluções digitais**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**, com interesse em desenvolvimento de software e suporte técnico.
 
-Tenho construído minha evolução através de **projetos práticos**, estudos constantes e aplicação de boas práticas de desenvolvimento, sempre buscando unir **tecnologia + impacto real**.
-
-Atualmente, participo do desenvolvimento de um projeto chamado **Elo Saúde**, voltado à criação de conteúdos digitais para apoiar famílias de crianças com desenvolvimento atípico, mostrando como a tecnologia pode ser usada para gerar valor social.
+Tenho construído minha evolução por meio de **projetos práticos**, estudo constante e aplicação de boas práticas. Busco minha primeira oportunidade na área de TI para aprender, evoluir e gerar valor através da tecnologia.
 
 ---
 
-# 🎯 Objetivo profissional
+# 🎯 Objetivo
 
-Busco uma oportunidade de:
+Atuar na área de tecnologia como:
 
-- Estágio em Tecnologia da Informação
-- Desenvolvimento de software (Back-end / Web)
-- Suporte técnico / 
-
-Meu objetivo é evoluir como profissional, aprender com equipes experientes e contribuir com soluções eficientes e bem estruturadas.
+- Estagiário em TI  
+- Desenvolvedor (Back-end ou Web)  
+- Suporte técnico  
 
 ---
 
-# 🛠️ Stack Tecnológica
+# 🛠️ Tecnologias
 
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-1E1E1E?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1E1E1E?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-1E1E1E?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=for-the-badge&logo=github&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-</div>
-
----
-## 📊 Estatísticas GitHub
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight" />
-</p>
+- C#  
+- SQL  
+- JavaScript  
+- HTML  
+- CSS  
+- Git  
+- GitHub  
+- SAP  
 
 ---
 
 # 🚀 Projetos em destaque
 
 ## 🌐 Elo Saúde
-Projeto web com foco em **informação, acolhimento e apoio para famílias de crianças atípicas**.
+Projeto web voltado à publicação de conteúdos de saúde e apoio para famílias.
 
-🔹 Desenvolvimento front-end com HTML, CSS e JavaScript  
-🔹 Estruturação de páginas e experiência do usuário  
-🔹 Implementação de conteúdos dinâmicos  
-🔹 Foco em acessibilidade e usabilidade  
+- Interface moderna e responsiva  
+- Organização de conteúdos  
+- Foco em acessibilidade  
+- HTML, CSS e JavaScript  
 
 ---
 
-## 🛒 E-commerce G2 (C#)
-Sistema baseado em **Programação Orientada a Objetos**.
+## 🛒 E-commerce G2
+Sistema em C# utilizando Programação Orientada a Objetos.
 
-🔹 Carrinho de compras  
-🔹 Manipulação de itens  
-🔹 Cálculo de total  
-🔹 Estrutura de classes organizada  
+- Carrinho de compras  
+- Estrutura de classes  
+- Manipulação de dados  
+- Lógica de negócio  
+
 ---
 
-# 📚 Aprendizado contínuo
+## 💻 Projetos Web
+Coleção de páginas e interfaces para prática.
 
-Estou constantemente estudando:
+- Layouts responsivos  
+- Estruturação de páginas  
+- Evolução em front-end  
 
-- Desenvolvimento Back-end  
+---
+
+# 💼 Experiência
+
+## 🏢 Stellantis | Jovem Aprendiz
+
+- Atuação com processos administrativos  
+- Uso do sistema SAP  
+- Lançamento e controle de dados  
+- Organização de informações  
+
+---
+
+# 📚 Atualmente estudando
+
+- Back-end  
 - Banco de dados  
-- Versionamento com Git  
+- Git e versionamento  
 - Boas práticas de código  
-- Metodologias ágeis (Scrum)  
+- Desenvolvimento web  
 
 ---
 
-# 🌍 Diferenciais
+# 🌟 Diferenciais
 
 - Facilidade de aprendizado  
-- Perfil proativo  
-- Organização e responsabilidade  
-- Interesse real por tecnologia  
-- Foco em crescimento profissional  
+- Proatividade  
+- Organização  
+- Vontade real de crescer  
+- Comprometimento  
 
 ---
 
 # 📫 Contato
 
-- 📧 Email: **joaowernerbr@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/joaodecristo
-- 📱 WhatsApp: https://wa.me/5531973401285
-- 📍 Localização: Belo Horizonte - MG
+- LinkedIn: https://linkedin.com/in/joaodecristo  
+- Email: joaowernerbr@gmail.com  
+- WhatsApp: https://wa.me/5531973401285  
 
 ---
 
-# 📌 Status
+# 🚧 Status
 
-🚧 Em evolução constante — sempre buscando aprender mais e melhorar meus projetos.
+Projeto e perfil em constante evolução 🚀  
 
 ---
 
 <div align="center">
 
-✨ Obrigado por visitar meu perfil! ✨
+✨ Obrigado por visitar meu perfil ✨  
 
 </div>
