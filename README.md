@@ -47,17 +47,18 @@ Atualmente desenvolvo projetos práticos para evoluir em **desenvolvimento de so
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
+## 📊 GitHub
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true&background=0d1117"/>
+<!-- 1. Estatísticas principais -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<!-- 2. Linguagens -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<!-- 3. Streak (outro serviço) -->
+<img width="70%" src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
