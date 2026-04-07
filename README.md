@@ -1,49 +1,50 @@
 <div align="center">
 
-# João Werner
+# 👨‍💻 João Werner
 
-### Estudante de Análise e Desenvolvimento de Sistemas • Desenvolvimento • Suporte Técnico • Open to Work
+### 🚀 Estudante de ADS • Desenvolvimento • Suporte Técnico • Open to Work
 
 <p>
-  <a href="https://linkedin.com/in/joaodecristo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/joaodecristo">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joaowernerbr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5531973401285" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/5531973401285">
+    <img src="https://img.shields.io/badge/WhatsApp-Falar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=joaowerner-dev&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="contador de visualizações" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=joaowerner-dev&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## Sobre mim
+# 🧠 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**, com interesse em **desenvolvimento de software**, **suporte técnico** e **tecnologias web**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na PUC Minas**, atualmente no início da minha jornada na área de tecnologia, com grande interesse em **desenvolvimento de software**, **suporte técnico** e **soluções digitais**.
 
-Tenho buscado evoluir por meio de projetos práticos, estudos constantes e experiências que fortaleçam minha base técnica e profissional. Meu objetivo é conquistar uma oportunidade de estágio ou posição inicial em TI, onde eu possa aprender, contribuir e crescer junto com a equipe.
+Tenho construído minha evolução através de **projetos práticos**, estudos constantes e aplicação de boas práticas de desenvolvimento, sempre buscando unir **tecnologia + impacto real**.
 
----
-
-## Objetivo profissional
-
-Atuar na área de Tecnologia da Informação, com foco em:
-
-- Desenvolvimento de software
-- Suporte técnico
-- Projetos web
-- Boas práticas de versionamento e organização de código
+Atualmente, participo do desenvolvimento de um projeto chamado **Elo Saúde**, voltado à criação de conteúdos digitais para apoiar famílias de crianças com desenvolvimento atípico, mostrando como a tecnologia pode ser usada para gerar valor social.
 
 ---
 
-## Tecnologias e ferramentas
+# 🎯 Objetivo profissional
+
+Busco uma oportunidade de:
+
+- Estágio em Tecnologia da Informação
+- Desenvolvimento de software (Back-end / Web)
+- Suporte técnico / 
+
+Meu objetivo é evoluir como profissional, aprender com equipes experientes e contribuir com soluções eficientes e bem estruturadas.
+
+---
+
+# 🛠️ Stack Tecnológica
 
 <div align="center">
 
@@ -60,61 +61,79 @@ Atuar na área de Tecnologia da Informação, com foco em:
 
 ---
 
-## Destaques do meu perfil
-
-- Estudante de ADS com foco em evolução prática
-- Interesse em desenvolvimento e suporte técnico
-- Experiência com rotinas administrativas e uso de SAP
-- Conhecimentos em lógica, versionamento e desenvolvimento web
-- Perfil dedicado, organizado e com vontade de aprender
-
----
-
-## Projetos em destaque
-
-### Elo Saúde
-Projeto web voltado à publicação de conteúdos de saúde e acolhimento para famílias, com foco em organização visual, acessibilidade e experiência do usuário.
-
-### E-commerce G2
-Projeto em C# com Programação Orientada a Objetos, envolvendo estruturação de classes, carrinho, cliente, itens e regras de negócio.
-
-### Projetos Web
-Páginas e interfaces desenvolvidas com HTML, CSS e JavaScript, buscando melhorar responsividade, organização de layout e apresentação visual.
-
----
-
-## Estatísticas do GitHub
+# 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaowerner-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-## Atividade no GitHub
+# 🚀 Projetos em destaque
+
+## 🌐 Elo Saúde
+Projeto web com foco em **informação, acolhimento e apoio para famílias de crianças atípicas**.
+
+🔹 Desenvolvimento front-end com HTML, CSS e JavaScript  
+🔹 Estruturação de páginas e experiência do usuário  
+🔹 Implementação de conteúdos dinâmicos  
+🔹 Foco em acessibilidade e usabilidade  
+
+---
+
+## 🛒 E-commerce G2 (C#)
+Sistema baseado em **Programação Orientada a Objetos**.
+
+🔹 Carrinho de compras  
+🔹 Manipulação de itens  
+🔹 Cálculo de total  
+🔹 Estrutura de classes organizada  
+---
+
+# 📚 Aprendizado contínuo
+
+Estou constantemente estudando:
+
+- Desenvolvimento Back-end  
+- Banco de dados  
+- Versionamento com Git  
+- Boas práticas de código  
+- Metodologias ágeis (Scrum)  
+
+---
+
+# 🌍 Diferenciais
+
+- Facilidade de aprendizado  
+- Perfil proativo  
+- Organização e responsabilidade  
+- Interesse real por tecnologia  
+- Foco em crescimento profissional  
+
+---
+
+# 📫 Contato
+
+- 📧 Email: **joaowernerbr@gmail.com**
+- 💼 LinkedIn: https://linkedin.com/in/joaodecristo
+- 📱 WhatsApp: https://wa.me/5531973401285
+- 📍 Localização: Belo Horizonte - MG
+
+---
+
+# 📌 Status
+
+🚧 Em evolução constante — sempre buscando aprender mais e melhorar meus projetos.
+
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true" />
-</div>
 
----
+✨ Obrigado por visitar meu perfil! ✨
 
-## Contato
-
-- **LinkedIn:** [linkedin.com/in/joaodecristo](https://linkedin.com/in/joaodecristo)
-- **Email:** [joaowernerbr@gmail.com](mailto:joaowernerbr@gmail.com)
-- **WhatsApp:** [Clique aqui para conversar](https://wa.me/5531973401285)
-- **Localização:** Belo Horizonte - MG
-
----
-
-## Mensagem final
-
-Estou em busca de uma oportunidade para iniciar minha trajetória na área de tecnologia, colocando em prática meus conhecimentos, aprendendo com profissionais experientes e contribuindo com dedicação, responsabilidade e vontade de evoluir.
-
----
-
-<div align="center">
-  <sub>Desenvolvido com dedicação por João Werner</sub>
 </div>
