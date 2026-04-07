@@ -38,7 +38,3 @@ Tenho interesse em **desenvolvimento de software** e **suporte técnico**, sempr
 
 ---
 
-## 📫 Contato
-
-📧 joaowernerbr@gmail.com  
-💼 linkedin.com/in/joaodecristo  
