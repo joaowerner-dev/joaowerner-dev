@@ -46,7 +46,6 @@ Atualmente desenvolvo projetos práticos para evoluir em **desenvolvimento de so
 ---
 
 ## 📊 GitHub
-
 ## 📊 GitHub
 
 <div align="center">
@@ -57,11 +56,14 @@ Atualmente desenvolvo projetos práticos para evoluir em **desenvolvimento de so
 <!-- 2. Linguagens -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaowerner-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
+
+<div align="center">
+
 <!-- 3. Streak (outro serviço) -->
 <img width="70%" src="https://streak-stats.demolab.com?user=joaowerner-dev&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🚀 Projetos
